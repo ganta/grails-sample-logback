@@ -69,8 +69,8 @@ environments {
     }
 }
 
-// log4j configuration
-log4j = {
+// logback configuration
+logback = {
     // Example of changing the log pattern for the default console appender:
     //
     //appenders {

@@ -68,3 +68,5 @@ grails.project.dependency.resolution = {
         }
     }
 }
+
+System.setProperty('logback.configurationFile', "${basedir}/grails-app/conf/logback-build.groovy")
